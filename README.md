@@ -11,10 +11,10 @@ M.S. Computer Science (AI) at **UC San Diego** · Fulbright Scholar · B.S. Biom
 
 **Machine Learning Researcher — Swartz Center for Computational Neuroscience, UC San Diego** *(Jun 2025 – present)*
 Multimodal physiological and behavioral signals: **EEG, eye-tracking, motion capture, electrodermal activity**, synchronized at sub-millisecond precision.
+- 📄 **Designed and led a large-scale multimodal ML dataset & benchmark** unifying eight sensor modalities. First-author paper **submitted to ICLR 2027**; under double-blind review, so code, data and paper will be released after the review period.
 - Fine-tuning **transformer-based EEG and time-series foundation models** against self-supervised and classical baselines; building **late-fusion multimodal models** across sensor streams
 - Engineering reproducible pipelines that turn tens of GB of raw sensor recordings into validated, ML-ready datasets, scaled on multi-GPU **SLURM** clusters
 - Designing benchmark evaluation methodology and representation/transfer-learning baselines
-- *Code and paper will be released after publication.*
 
 **NLP / ML Engineer — Barcelona Supercomputing Center, NLP4BIA** *(Jul 2023 – Aug 2025)*
 Biomedical & clinical NLP for Spanish-language health data.
